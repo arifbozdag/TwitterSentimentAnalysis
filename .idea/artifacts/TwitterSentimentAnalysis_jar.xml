@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TwitterSentimentAnalysis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwitterSentimentAnalysis_jar</output-path>
+    <root id="archive" name="TwitterSentimentAnalysis.jar">
+      <element id="module-output" name="TwitterSentimentAnalysis" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/opencsv-4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/commons-lang3-3.8.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
